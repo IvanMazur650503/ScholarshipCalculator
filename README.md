@@ -6,5 +6,5 @@
 
 Среда разработки: Visual Studio 2010
 
-[Требования](https://github.com/Bulbash3r/MTGTournamentManager/blob/master/Документы/Требования/Требования.md)  
+[Требования](https://github.com/IvanMazur650503/ScholarshipCalculator/blob/master/Documents/%D0%A2%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)  
 [Графический материал](https://github.com/Bulbash3r/MTGTournamentManager/tree/master/Изображения)
