@@ -5,4 +5,3 @@
 4. [Диаграмма последовательности](https://github.com/IvanMazur650503/ScholarshipCalculator/blob/master/Documents/system%20design/Sequence/SequenceDiagrams.md)
 5. [Диаграмма состояний]()
 6. [Диаграмма развёртывания](https://github.com/IvanMazur650503/ScholarshipCalculator/blob/master/Documents/system%20design/Deployment/DeploymentDiagram.md)
-7. [Диаграмма компонентов]() 
