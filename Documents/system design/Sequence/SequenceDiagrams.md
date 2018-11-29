@@ -13,7 +13,7 @@
 ## 2.Создать файл <a name="createfile"></a>
 ![исп](https://github.com/IvanMazur650503/ScholarshipCalculator/blob/master/Documents/system%20design/Sequence/CreateDiag.jpg)
 ## 3.Сохранить файл <a name="savefile"></a>
-![исп](https://github.com/IvanMazur650503/ScholarshipCalculator/blob/master/Documents/system%20design/Sequence/SaveDiagram.jpg)
+![исп](https://github.com/IvanMazur650503/ScholarshipCalculator/blob/master/Documents/system%20design/Sequence/SaveDiag.jpg)
 ## 4.Поиск в файле <a name="search"></a>
 ![исп](https://github.com/IvanMazur650503/ScholarshipCalculator/blob/master/Documents/system%20design/Sequence/SearchDiagram.jpg)
 ## 5.Рассчитать стипендию <a name="calculate"></a>
