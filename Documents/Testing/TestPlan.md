@@ -70,7 +70,7 @@
 
 <a name="6"></a>
 ### 6. Представление результатов
-Результаты тестирования представлены в [таблице](https://github.com/Bulbash3r/ContactBook/blob/master/Testing/TestResult.md).
+Результаты тестирования представлены в [таблице](https://github.com/IvanMazur650503/ScholarshipCalculator/blob/master/Documents/Testing/TestResult.md).
 
 <a name="7"></a>
 ### 7. Выводы
